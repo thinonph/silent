@@ -19,7 +19,7 @@ getgenv().MacroKey = "" -- to use the built in lua macro
 
 -- soft Aim
 getgenv().AimlockKey = "q"
-getgenv().SmoothnessAmount = 0.016
+getgenv().SmoothnessAmount = 0.0
 getgenv().PredictionVelocity = 7.12
 ----------------------------------
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/3A9wdSkL"))()
