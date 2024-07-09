@@ -18,7 +18,7 @@ getgenv().ShowFOV = true
 getgenv().MacroKey = "" -- to use the built in lua macro
 
 -- soft Aim
-getgenv().AimlockKey = "c"
+getgenv().AimlockKey = "q"
 getgenv().SmoothnessAmount = 0.0
 getgenv().PredictionVelocity = 7.12
 ----------------------------------
