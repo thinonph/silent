@@ -4,7 +4,7 @@ getgenv().Parts = {"Head", "HumanoidRootPart, LowerTorso"} -- {"Head", "Humanoid
 
 getgenv().Hitchance = 100
 
-getgenv().Fov = 6 -- semi legit Rev: 9, 8, 8.5, 7.6, 7.5, 7.3
+getgenv().Fov = 11.3 -- semi legit Rev: 9, 8, 8.5, 7.6, 7.5, 7.3
                    -- Rev(far): 7, 6.7, 6.4, 5.6, 5.3
                    -- Shotgun: 12, 11, 10, 10.5, 9.8, 9.4,
                    ------------------
